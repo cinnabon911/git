@@ -9,12 +9,12 @@
     * `git add <filename>` then `git commit`
 5. Write a suitable commit message and finalize your commit
 6. 📸 Take a screenshot of your terminal output
-7. ![image](https://github.com/cinnabon911/git/assets/104600833/d76c83c1-e2d5-45c3-bd48-0a8989fdafcd)
+ ![image](https://github.com/cinnabon911/git/assets/104600833/d76c83c1-e2d5-45c3-bd48-0a8989fdafcd)
 
 8. Show the commit history
     * `git log`
 9. 📸 Take a screenshot of your terminal output
-10. ![image](https://github.com/cinnabon911/git/assets/104600833/0659cf17-30e6-467a-a589-022871c8935d)
+ ![image](https://github.com/cinnabon911/git/assets/104600833/0659cf17-30e6-467a-a589-022871c8935d)
 
 
 ### Task 2
@@ -23,6 +23,7 @@
     * `git remote add origin <url>`
 3. Push your local `githomework1` repository to GitHub
 4. Include your repository URL in your submission
+   https://github.com/cinnabon911/githomeworkrepo.git
 
 ### Task 3
 1. Create a new branch called `playing-with-bash`
