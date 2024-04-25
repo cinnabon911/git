@@ -14,6 +14,8 @@
 8. Show the commit history
     * `git log`
 9. 📸 Take a screenshot of your terminal output
+10. ![image](https://github.com/cinnabon911/git/assets/104600833/0659cf17-30e6-467a-a589-022871c8935d)
+
 
 ### Task 2
 1. Create a new public repository on GitHub
